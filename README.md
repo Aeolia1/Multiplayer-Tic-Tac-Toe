@@ -1,5 +1,5 @@
 # Multiplayer-Tic-Tac-Toe-Game
-Build a digital version of the classic turn-taking gam "Tic-Tac-Toe" based on MVC pattern. (Java)
+Build a digital version of the classic turn-taking gam "Tic-Tac-Toe" based on the MVC design pattern. (Java)
 
 
 ## Project Background
